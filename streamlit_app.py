@@ -3,7 +3,7 @@ import streamlit as st
 from snowflake.snowpark.functions import col
 # nutrition info
 import requests
-import pandas
+import pandas as pd
 
 
 # Write directly to the app
